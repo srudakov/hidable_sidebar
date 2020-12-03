@@ -1,0 +1,7 @@
+base     hidable_sidebar
+author   Serega
+email    sergei.rudakov@gmail.com
+date     2020-12-02
+name     hidable sidebar doku wiki template
+desc     button in menu to toggle sidebar visibility
+url      https://github.com/srudakov/hidable_sidebar
